@@ -1,4 +1,6 @@
-github.com/Gonzagadavid/area v0.0.0-20240213211607-5512b9954b50 h1:xT/FRdgrqqWUudphraPYcnIDfEJPGg65OvaomrsKUlY=
-github.com/Gonzagadavid/area v0.0.0-20240213211607-5512b9954b50/go.mod h1:8QdDwrtkJB/9spFeyssWD5JoikTliDSy874XGyhslg4=
+github.com/Gonzagadavid/go-course-packages v0.0.0-20240227225502-1fee81dc1020 h1:Xqy6PKFb2xUd2t7a0b3a41SpNnXNiC4YIRGxL9WHajk=
+github.com/Gonzagadavid/go-course-packages v0.0.0-20240227225502-1fee81dc1020/go.mod h1:u6/3mu3dpOX2vOj65svZXKf4EOjoZExB44T9EwGmwAI=
+github.com/Gonzagadavid/go-course-packages v0.0.0-20240303162622-35aa921790af h1:xGh52E4F3BWj1UImB0kZ5jWnquvlzxmnsSsp3AQBA3g=
+github.com/Gonzagadavid/go-course-packages v0.0.0-20240303162622-35aa921790af/go.mod h1:u6/3mu3dpOX2vOj65svZXKf4EOjoZExB44T9EwGmwAI=
 github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
 github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=

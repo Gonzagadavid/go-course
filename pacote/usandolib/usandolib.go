@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Gonzagadavid/area"
+	area "github.com/Gonzagadavid/go-course-packages/area"
 )
 
 func main() {
